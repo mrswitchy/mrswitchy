@@ -1,4 +1,3 @@
-[profile-README.md](https://github.com/user-attachments/files/29432253/profile-README.md)
 # Hi, I'm Ahmed Said 👋
 
 ```bash
