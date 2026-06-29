@@ -53,7 +53,7 @@ I'm actively seeking roles in **SOC Analysis**, **Penetration Testing**, **GRC**
 ### 🐛 [ctf-writeups](https://github.com/mrswitchy/ctf-writeups)
 > Documented Capture the Flag solutions covering web exploitation, network forensics, and cryptography.
 
-### 📄 [cert-study-notes](https://github.com/mrswitchy/cert-study-notes)
+### 📄 [cert-study-notes](https://github.com/mrswitchy/mrswitchy/tree/main/Certifications)
 > Study notes, cheat sheets, and domain breakdowns for CompTIA Security+ and Network+.
 
 ---
