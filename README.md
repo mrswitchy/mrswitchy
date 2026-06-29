@@ -44,7 +44,7 @@ I'm actively seeking roles in **SOC Analysis**, **Penetration Testing**, **GRC**
 
 ## 📁 Featured Projects
 
-### 🔒 [vulnerability-isolation-nuclei](https://[https://github.com/mrswitchy/mrswitchy/blob/main/vulnerability-isolation-nuclei.md)
+### 🔒 [vulnerability-isolation-nuclei](https://github.com/mrswitchy/mrswitchy/blob/main/vulnerability-isolation-nuclei.md)
 > Senior capstone project with Trust Anchor — 12 custom Nuclei YAML templates built to isolate and detect specific web vulnerabilities with surgical precision.
 
 ### 🏠 [security-homelab](https://github.com/mrswitchy/security-homelab)
