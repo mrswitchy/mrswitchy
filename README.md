@@ -9,7 +9,7 @@ ahmed@mrswitchy:~$ whoami
 
 **Cybersecurity graduate passionate about securing identities, automating security workflows, and building real world security projects. Always learning. Always building..**
 
-I'm actively seeking opportunities focused on **Identity & Access Management (IAM)**, **Security Operations (SOC)**, **Cloud Security**, and **Security Engineering**.
+I'm actively seeking opportunities in **Identity & Access Management (IAM)**, **Security Operations (SOC)**, **Cloud Security**, and **Security Engineering**.
 
 ## 🛡️ Certifications
 
