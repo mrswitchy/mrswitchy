@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed Said 👋
 
 ```bash
-ahmed@entra:~$ whoami
+ahmed@mrswitchy:~$ whoami
 > Cybersecurity Graduate | Identity & Access Management | Security Engineering
 ```
 
