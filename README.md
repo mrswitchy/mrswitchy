@@ -1,23 +1,23 @@
 # Hi, I'm Ahmed Said 👋
 
 ```bash
-ahmed@mrswitchy:~$ whoami
-> Cybersecurity Professional | Vulnerability Researcher | Security Automation Enthusiast
+ahmed@entra:~$ whoami
+> Cybersecurity Graduate | Identity & Access Management | Security Engineering
 ```
 
 ## About Me
 
-**Cybersecurity graduate passionate about securing identities, automating security workflows, and building real world security projects. Always learning. Always building.**
+**Recent B.S. Cybersecurity graduate focused on Identity & Access Management (IAM), cloud security, and security automation. I enjoy building practical security labs and projects that strengthen identity security, automate security workflows, and solve real-world cybersecurity challenges.**
 
-I'm actively seeking opportunities in Identity & Access Management (IAM), Security Operations (SOC), Cloud Security, and Security Engineering.
+I'm actively seeking entry-level opportunities in **Identity & Access Management (IAM)**, **Security Engineering**, **Cloud Security**, and **Security Operations (SOC)**.
 
 ## 🛡️ Certifications
 
 | Certification | Issuer | Status |
-|---|---|---|
+| :--- | :--- | :---: |
 | CompTIA Security+ | CompTIA | ✅ Certified |
 | CompTIA Network+ | CompTIA | ✅ Certified |
-| B.S. Cybersecurity | University | ✅ Graduated |
+| B.S. Cybersecurity | Grand Valley State University | ✅ Graduated |
 
 ---
 
