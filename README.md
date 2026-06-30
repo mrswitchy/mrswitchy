@@ -54,12 +54,6 @@ I'm actively seeking opportunities in **Identity & Access Management (IAM)**, **
 ### 🏠 [security-homelab](https://github.com/mrswitchy/security-homelab)
 > Personal SOC homelab setup with SIEM configuration, log analysis exercises, and network monitoring practice.
 
-### 🐛 [ctf-writeups](https://github.com/mrswitchy/ctf-writeups)
-> Documented Capture the Flag solutions covering web exploitation, network forensics, and cryptography.
-
-### 📄 [cert-study-notes](https://github.com/mrswitchy/mrswitchy/tree/main/Certifications)
-> Study notes, cheat sheets, and domain breakdowns for CompTIA Security+ and Network+.
-
 ---
 
 ## 📫 Contact
