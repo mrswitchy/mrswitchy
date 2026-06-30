@@ -7,10 +7,9 @@ ahmed@mrswitchy:~$ whoami
 
 ## About Me
 
-Recent B.S. Cybersecurity graduate with hands-on experience in vulnerability research, network security, and security automation. During my senior capstone with **Trust Anchor**, I engineered 12 custom YAML templates for [Nuclei](https://github.com/projectdiscovery/nuclei) — an open-source web vulnerability scanner — to isolate and surface only the specific vulnerability classes under study, reducing noise and improving scan precision.
+Cybersecurity graduate passionate about securing identities, automating security workflows, and building real world security projects. Always learning. Always building.
 
-I'm actively seeking roles in **SOC Analysis**, **Penetration Testing**, **GRC**, and **Network Security**.
-
+I'm actively seeking opportunities in Identity & Access Management (IAM), Security Operations (SOC), Cloud Security, and Security Engineering.
 ---
 
 ## 🛡️ Certifications
