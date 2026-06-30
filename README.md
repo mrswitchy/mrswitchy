@@ -7,7 +7,7 @@ ahmed@mrswitchy:~$ whoami
 
 ## About Me
 
-**Recent B.S. Cybersecurity graduate focused on Identity & Access Management (IAM), cloud security, and security automation. I enjoy building  security labs and projects that strengthen identity security, automate security workflows, and solve real world cybersecurity challenges.**
+**Cybersecurity graduate passionate about securing identities, automating security workflows, and building real world security projects. Always learning. Always building..**
 
 I'm actively seeking opportunities focused on **Identity & Access Management (IAM)**, **Security Operations (SOC)**, **Cloud Security**, and **Security Engineering**.
 
