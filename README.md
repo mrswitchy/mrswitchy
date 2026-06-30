@@ -23,20 +23,26 @@ I'm actively seeking opportunities in **Identity & Access Management (IAM)**, **
 
 ## 🔧 Technical Skills
 
-**Offensive / Red Team**
-`Nuclei` `Nmap` `Burp Suite` `OSINT`
+### 🔐 Identity & Access Management
+`Microsoft Entra ID` `Active Directory` `Windows Server 2025` `Group Policy (GPO)` `User & Group Administration` `RBAC`
 
-**Defensive / Blue Team**
-`SIEM` `Wireshark` `Log Analysis` `IDS/IPS` `Incident Response`
+### ☁️ Cloud & Platforms
+`AWS EC2` `AWS IAM` `Windows 10/11` `Linux` `VirtualBox` `VMware`
 
-**Scripting & Automation**
-`YAML` `Python` `Bash`
+### 🛡️ Security Operations
+`Splunk` `Microsoft Defender` `Incident Response` `Log Analysis` `Security Monitoring`
 
-**GRC & Compliance**
-`NIST Framework` `Risk Analysis` `Policy Writing`
+### 🔍 Vulnerability Management
+`Nuclei` `Nmap` `Burp Suite` `Wireshark` `Vulnerability Assessment`
 
-**Networking**
-`TCP/IP` `DNS/DHCP` `Firewalls` `VPN`
+### 💻 Automation & Scripting
+`Python` `YAML` `PowerShell` `Bash` `Git` `GitHub`
+
+### 🌐 Networking
+`TCP/IP` `DNS` `DHCP` `VPN` `Firewalls` `Routing & Switching`
+
+### 📋 IT Operations
+`ServiceNow` `Microsoft 365` `Windows Administration` `Hardware Troubleshooting` `Technical Documentation`
 
 ---
 
